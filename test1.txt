@@ -5,3 +5,6 @@ aoieo
 kakikukeko
 ついか　おうおうおう！
 developのブランチだよ！
+
+バグが出たぞ！
+直したぞ！
